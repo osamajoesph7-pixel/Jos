@@ -44,6 +44,7 @@ Step 3 — AI Rendering Engine: The model produces a short video (0.3–1 second
 6. Legal Note
 
 This project does not modify game files or bypass any security measures. The information read is only Game State Data, which is permitted by any game engine through Debugging APIs or Modding Tools.
+المشروع ده هو مشروع انا عامله عشان كل جيمر او كل واحد نفسه يجرب لعبه بس العبه مش راضيه تشتغل وانا في خلال تلت سنين هخلصه لاني حالين مش فاضي انا في ثانويه عامه اتمن الدعم 
 
 7. Author
 
